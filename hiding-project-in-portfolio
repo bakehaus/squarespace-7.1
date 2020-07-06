@@ -1,0 +1,5 @@
+<style>
+  a[href="/portfolio-name/project-URL"] {
+    visibility: hidden;
+  }
+</style>
